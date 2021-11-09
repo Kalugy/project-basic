@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "M:\\projects\\.net\\webapi\\webapi.csproj",
+      "projectUniqueName": "M:\\projects\\project-basic\\.net\\webapi\\webapi.csproj",
       "projectName": "webapi",
-      "projectPath": "M:\\projects\\.net\\webapi\\webapi.csproj",
+      "projectPath": "M:\\projects\\project-basic\\.net\\webapi\\webapi.csproj",
       "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "M:\\projects\\.net\\webapi\\obj\\",
+      "outputPath": "M:\\projects\\project-basic\\.net\\webapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
